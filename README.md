@@ -11,7 +11,6 @@ Control Your Shopping Budget With VoiceCart!
 <a href="https://demo-voicecart-web.netlify.app/"><strong>Try Live Demo »</strong></a>
 <br/>
 <br/>
-<a href="https://demo-voicecart-web.netlify.app/">View Demo</a>  
 <a href="https://github.com/VXerys/voicecart-web/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
 <a href="https://github.com/VXerys/voicecart-web/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
 </p>
@@ -165,6 +164,8 @@ Distributed under the MIT License. See [MIT License](https://opensource.org/lice
 - M. Sechan Alfarisi - [@VXerys](https://github.com/VXerys)
 - M. Fathir Bagas
 - Siti Rahma Alia
+- Desti
+- Tresna Gunawan
 
 **Project Links:**
 - Live Demo: [https://demo-voicecart-web.netlify.app/](https://demo-voicecart-web.netlify.app/)
@@ -183,5 +184,4 @@ Special thanks to the technologies and resources that made VoiceCart possible:
 - [Tailwind CSS](https://tailwindcss.com/) - For beautiful, responsive design
 - [Fuse.js](https://fusejs.io/) - Fuzzy search implementation
 - [Netlify](https://netlify.com/) - Seamless deployment platform
-- Our academic supervisor and University Nusa Putra for supporting this innovation
 - Beta testers who provided valuable feedback during development
